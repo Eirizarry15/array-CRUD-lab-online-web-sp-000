@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   cats = ["x", "y", "z"]
-  cats.push("t","u")
+  cats.push("array","element")
 end
 
 def add_element_to_start_of_array(array, element)
